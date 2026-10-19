@@ -1,2 +1,2 @@
 # Claudio Poveda 
-Automation and AI Specialist skilled in n8n, machine learning, and neural network architecture. Expert in Python, R, and SQL, with a proven track record in API development and full-stack web design. Experienced in web scraping and testing.
+Data Science and AI Developer skilled in machine learning, neural networks, Python, R, SQL, n8n automation, API development, full-stack design, web scraping, and testing.
